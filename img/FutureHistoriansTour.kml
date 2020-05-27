@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1OI_kc7fX9ZAdLTPQb-5iRyTTK8h5Ng87">
+	<name>Future Historians</name>
+	<gx:CascadingStyle kml:id="__managed_style_0179B32A3D1389F82E8C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_06287DBA3B1389F82E8B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B7D46AEB51389F82E8B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0179B32A3D1389F82E8C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_061217A3E81389F82E87">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_162B843D261389F82E86">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B5746D0A41389F82E86">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_162B843D261389F82E86</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_061217A3E81389F82E87</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_24F40871521389F82E84">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B7D46AEB51389F82E8B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_18B1ED2E421389F82E84">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05CD3C0C421389F82E84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_18B1ED2E421389F82E84</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24F40871521389F82E84</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0873F3BADF1389F82E79">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=8d6e63&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_035DF172581389F82E81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17701BB59B1389F82E81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2C0D1927851389F82E81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0945DD72591389F82E72">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_050D463E8F1389F82E7D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0DEB3A76781389F82E7C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_050D463E8F1389F82E7D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F755346DE1389F82E7E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0A9605A8261389F82E6D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12E133A1101389F82E6D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0945DD72591389F82E72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_17701BB59B1389F82E81">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_053DDED1461389F82E73">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B5E7BCC731389F82E73</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0873F3BADF1389F82E79</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0F755346DE1389F82E7E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B5E7BCC731389F82E73">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=8d6e63&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2C0D1927851389F82E81">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12E133A1101389F82E6D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="02A07226C91366B9922A">
+		<name>Future Historians</name>
+		<styleUrl>#__managed_style_0A9605A8261389F82E6D</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2l1WUxVZVYxWUZ6cGl0aGdISm4rUXVHcWU1WVhDVFcyWGR1U2pha09vbjFhc1RodEY2c2haVVpGQVpUL1FvMDB3bXFHVFE0REVaRk1Od08wdkJSbWtVUUF6d0pVUDJvUUVZV0ZOdTVxZXJ6K2srQmk1RUdhd0JaUmhlRjMwZVVna0VPY1RQbVN1VUhJSk53S2tseDhWcklqT0dBRFQ0ZVQ5QkpERTRUbzB4Zmd5clE5RGZ3V1drV2Z5RHhvVkNpaVNTMTdqRlFSSytIaXY4ZElCQk5BTHp1RnpJdXQvaVBEdS9jQ2NPb0djUjVZMXlDSDhZamc4dlZQdm1QQnlob0RzdzBBS2U0ZS9nYWNzaU5XampMQ09XbnZMVWc9PQ">
+				<gx:ImageUrl>https://doc-10-7o-mymaps.googleusercontent.com/untrusted/hostedimage/fa94d1fmg9j9g79gn98g4pg6s4/m6dq3krfdo9v69o2qjthc6j4q0/1590556662500/6LQ0fqi0K8oJPTUGCqbYksfZzxdWWXS8/00672193297249112796/5AF2TALrS-nI2FspG3-ES9tnHQ9XVdFgEt1C_Rm8UD3txGKD02msCcmdgeNVAYj9o9Fwp3SKCRuZdmXVoyP2jLcRjaTfLfLxheU8wEXYG98ohb10m7KH0iHIEXevk9BRJdqcfOpmCKIFLixMMKufTKdDe4bI7M1oud_yDvaq9KKGylPQwZs55tP1pljEPopGpQta_Q_YQpaNPsxDKfo3nYgDSFFmqvaobahS9lz3Yhe6liXH20SMpDlWhS1uA2Hqdy6G2yS67VAyNBlpaWFIteNLpOZeiewDHDw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="0B64F77D9A1366BC7395">
+		<name>Welcome Judges!</name>
+		<description><![CDATA[<div>Click the video for your instructions</div>]]></description>
+		<gx:mid>/m/09f2j</gx:mid>
+		<gx:fid>0x80c2bc85f05c0f65:0x25a993585c134837</gx:fid>
+		<LookAt>
+			<longitude>-118.445179969561</longitude>
+			<latitude>34.06891354142731</latitude>
+			<altitude>-22767.26256827715</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>19694637.96546221</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_053DDED1461389F82E73</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="youtube_video_yw2zGxOH-EY">
+				<gx:ImageUrl>https://img.youtube.com/vi/yw2zGxOH-EY/hqdefault.jpg</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.4451811,34.068921,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00170F7BB3136713CF29">
+		<name>Eiffel Tower</name>
+		<description><![CDATA[<p dir="ltr"><span>Welcome to Paris, France! This beautiful structure is the Eiffel Tower! </span><br></p><div dir="ltr"><span>This tower was built in 1887. It was composed of puddling iron and stood at 984 feet tall. The data also tells us that roughly 7 million people from all over the world would visit the tower each year. </span><br></div><div dir="ltr"><span>Clearly, this monument was of great value to ancient civilization. </span><br></div><div dir="ltr"><br></div><div dir="ltr"><span>The Eiffel Tower revolutionized what it meant to build a cell tower. No one would have ever thought to make a cell tower so beautiful, or so tall! The average height of a cell tower at the time was only 50 to 200 feet. The Eiffel was made to be almost 10 times taller than the average tower so that it could communicate with aliens on other planets. In fact, it is the very thing that helped us guide the aliens to our planet! Without this tower, our life would be very different today. This iconic piece of history deserves to be restructured.</span><br></div><div><br></div>]]></description>
+		<gx:mid>/m/02j81</gx:mid>
+		<gx:fid>0x47e66e2964e34e2d:0x8ddca9ee380ef7e0</gx:fid>
+		<LookAt>
+			<longitude>2.299424054370611</longitude>
+			<latitude>48.86524260664025</latitude>
+			<altitude>61.94140309683667</altitude>
+			<heading>29.32410561252699</heading>
+			<tilt>82.6931072479023</tilt>
+			<gx:fovy>34.99999999997667</gx:fovy>
+			<range>1392.072205617442</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0DEB3A76781389F82E7C</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="youtube_video_kal-ZuU45M4">
+				<gx:ImageUrl>https://img.youtube.com/vi/kal-ZuU45M4/hqdefault.jpg</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.2944813,48.85837009999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E9EE245DF1366243F3D">
+		<name>Statue of Liberty</name>
+		<description><![CDATA[<div><span><a href="https://www.history.com/topics/landmarks/statue-of-liberty">Recovered documents of history</a>&nbsp;state it&nbsp; was a commemoration of friendship between France and the United States of America. </span><br></div><div><span>It is in reference to a goddess of Liberty which leads a people to victory. </span><br></div><div><span>But consider this: it is a plea to the alien race for liberation of the human race through enlightenment. </span><br></div><div><br></div><div><span>Sculptor Frederic-Auguste Bartholdi, with steelwork by Alexandre-Gustave Eiffel. The Statue of Liberty can symbolize our alien brethren bestowing upon us a torch of enlightenment as a reference to the Ancient Greek myth of <a href="https://www.greeka.com/greece-myths/prometheus/">Prometheus</a>. </span><br></div><div><span>Notice how different it is from&nbsp;</span><a href="https://en.wikipedia.org/wiki/Liberty_Leading_the_People">other representations of a Lady Liberty</a><span>&nbsp;by the French of that century. The painting <i>Liberty Leading the People</i> is included in your reference images</span><br></div><div><br></div><div><span>The copper oxidizes it over time to give its gorgeous alien-green skin. The torch is unaffected as it is covered in gold leaf. It stands at an impressive <a href="#0BC01AF7601368BE7F0B;flyto">151 feet tall</a> (305 if you include the pedestal)!</span><br></div><div><span></span><br></div><div><span>Clearly, the Statue of Liberty has a deep artistic meaning that should be recognized.</span><br></div>]]></description>
+		<gx:mid>/m/072p8</gx:mid>
+		<gx:fid>0x89c25090129c363d:0x40c6a5770d25022b</gx:fid>
+		<LookAt>
+			<longitude>-74.04453854388721</longitude>
+			<latitude>40.68920927863829</latitude>
+			<altitude>56.08668827807152</altitude>
+			<heading>-19.68806273493222</heading>
+			<tilt>70.69760836930679</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>176.243311514063</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035DF172581389F82E81</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="youtube_video_Zue7asTCqI0_0">
+				<gx:ImageUrl>https://img.youtube.com/vi/Zue7asTCqI0/hqdefault.jpg</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzAxUEhuTWgrbk1ZbDNYWjNrcGtOT0tkdEFJTkJjUFg2Wjl6YUk0VW91d2tKNFNER2RvdExFeUJkMjNCQWQ1Nk8rWWZ0dDdNSnBzN0loVlU5anVtNS9CMWlrZzV1Y29PM052QzBYclg1UDc2SnJtWjVFcWFyMTMrK0I5QjFrT3hFWmc5dUd4YVJzMVJKcDNlZWJaK1QxU0pHNVJuRU42T0NsY0Qxc2owUlBrdm9tMW5kZXdZYTcxc3h1THhxdkVTczA4ZXZwd0xVT0FsUGtjSCszUVFVWFZWQkJCOU5XU1c0dUdnQndJM2lTa093aGlIaGN1bTVOYTBMb1pyZkdTMTNWUXh1ODNVV2tLUVhZQ0poRnJUL3dMOXVJcHc9PQ">
+				<gx:ImageUrl>https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/fa94d1fmg9j9g79gn98g4pg6s4/gt230pkraoucs52vpldn1ph7rk/1590556662500/6LQ0fqi0K8oJPTUGCqbYksfZzxdWWXS8/00672193297249112796/5AF2TALrKWHRfdLLZ_fPwFJa4mwWcvIKbaZGhsHNWAgWD3sZJfROW9ZcshGG7GLJeoY8HNUATcyncvyKhI3TwFVq5znBW3eXYk0YUOGnyA6lklcoMTxRK14TtTW5cOMh0VdjV3CMgzGRatKoCMD8slBzCgfRoY4CWD5Cvt9X1QUnP8wuGZ3uBqC0MU9NL4lxSsBCIZIJOUdVimkrf5Ka5zf72B30RZa0AhDGtpOPPH-5wKnFzeUlgBdh8xijL387q5r9jsYroNHlfge9mp_oxuBzKjfYefqZPmg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjhPeFlpdjlSaVcxZ3BhdmlMMVJlU0J0RC9Ydk92Tkw4VlJid09abG5ZVklpSjhST2g1Y01XQXJ4MXJhSE1mdmhpN1RmSkZTc0J0MFlaQS9JeDcyOXFFME1sUW5sK3YxSWdnVFZhbGNyTjQ1TFpMQjVTODIvVHZwUUhVYnpvSEVkVzdCR2w3MC9mMjhyMHhoYVRUOG5YajZKWmlzTjBMc0dxUGFWVVR6N2pickJFT2tiTFhmdlpHY1VSUHpRblVHTEdVTDNPWEd5eVZ6WG5zNks2ZXVvd2gxV0pMRW9kcHhienlwZVFsVGoxRmxNSTZXSkVzd2hWTE04Z3FLa29zbjdwcXE1U3p2TVVvWVR6T3BWZzZmU3NqZElGakE9PQ_0">
+				<gx:ImageUrl>https://doc-0g-7o-mymaps.googleusercontent.com/untrusted/hostedimage/fa94d1fmg9j9g79gn98g4pg6s4/m9i6uhjcqtdnvr0rvd36q667io/1590556662500/6LQ0fqi0K8oJPTUGCqbYksfZzxdWWXS8/00672193297249112796/5AF2TALrTMmsn-b7AL2U30YUQRNKTybhoZmHQhnuCje1HLLuNquwZ-9IXHd9ZF2-0cvXeBf-fJBgyRI0iGNlNFYwgwcCWPCWbBKvFMJR1OnLn8KaLA42y_ql8acESgXR2uxVTioz0ZPILT4x4uit4nHnFKB8ZduRe0wn5cbIY7e3_7oczcQENqSDPdFI2NbSHNPMeyYC6S2WewbsuQVrRsMvuLIV6V9oRaSsueTCW546Gca6ulJ_6InwJVFpkkq6zReGyrUzwloUjM1q3vVs58oeDvJ-TyAtFCw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcllTdytQUmljc1VxbEphZmVPcHcxM3VhTHpKK3FUMi81aGlQRHBNSnBUYTNSRFA4SWZ3Q1lCVmsxMmc5aXBnUXhiV1haNTNESFNzZUpVazBTWGJJajlhMU9jWlZIZmE4OGZYeGRCYXlEK3pPVDlvSEhUcmt0NU83VVp5OTFWbk8rMWdjd0ZMckh0bWdIcHBOa096SmU1L2w2QmRtaVpLR3BJVVQvNzVIREoxZlJ3VlRtRGRSazU0eEFOMThkeU1pQlVYb2VXRTRudHYvRi9ZajhTd2tQM1VrTEUvUm5MdUdwSlprSlJYYVgxbkhrU2c0NmhEVzJORnpCdDdSWjh0TGxpdE5BbFJtcTNSRWlLZExoaElvbHAvaVpmeEE9PQ">
+				<gx:ImageUrl>https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/fa94d1fmg9j9g79gn98g4pg6s4/9l876v9neqhb2h4oil59m2i68k/1590556662500/6LQ0fqi0K8oJPTUGCqbYksfZzxdWWXS8/00672193297249112796/5AF2TALrUqhtVi8bS65VJnjfPuj_Yxqh1nTJjy44bqzNeRDLEmzwhm3a4qgcxQI2aB0tCDMUiCNuILJiWQ7umanq3u772DZ4XMNU6Znq_9ADD7NmjmIIY0alDm6smLM8wASFXZl6MpXTEY33WEwbJo8wW-8Gmv8N3Bo8qFhkN6bqrrcuMdJFnd2iF3Pg1pzqdNmUC1uWqFxlhK4gzf_e77e05dgRc-WUSgTEpm6eo3oQf9DgvSl4Q56HHQeXmmMcI-lvJn4TvM7ElvuI9IJqjxhGbEmXi9rN95Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb3lBYklkeW5oWWtOeE8wSitsdmlKbW1RMGdicVhiVGM3NFRTdHhEOEhzTkl5T0JWVEl6ZHRtU0Y2bVZhZEpiRi9CM01PR2FFZTZZbExLdmZ4eGg5Mm03TU14QkxZUmpuZk05V1BYY3VaRzJzVXE3NzNxTll3NTk3QnFuSnoxdjc2R255SmdMbXIwSGd3SEdTRmhrejRZaExiS2NKaWVqNCtBYldvdld4VXZ4N2VKcjl6eDV4c1BZUFZQM1VGcU5VT1c3aEJJeEh2WXZNYzhlLzVlalhveFIwb281T2p2SzFNY1JHSXBUT0lOajJwM2EwUGJ2MVpURE42cmxrT0V6WjJHbVY5NHp6MnFCV2l3eTdCc3hrU2dVdjRBU1E9PQ_0">
+				<gx:ImageUrl>https://doc-10-7o-mymaps.googleusercontent.com/untrusted/hostedimage/fa94d1fmg9j9g79gn98g4pg6s4/365pulclm5uf9s51nmik6gt5fs/1590556662500/6LQ0fqi0K8oJPTUGCqbYksfZzxdWWXS8/00672193297249112796/5AF2TALqEj55voPESCrChwEmkWBkjSK7GHrf3U71IQyxW_ULLvqIWSLQKHfoTNz8iOotT1gdLnsn1kkZ5TapODCfH4egTTMeI13WGTIpwyBEvnaM_zRQOq4-rYHu_jXR82_Yo7t0btTRec5WrAk2-cTkBCAOQ2z5paxEkvr6L7feR4msS1jBvaRuNpG91sBKhfhAztZ7Ir0dZt5XzhXbR9deeXhIW4bavEcT-E-6tAyFp1JW5DFD-XMnkGfNhR1JChuWLklDXxnhjTv4fIThmJGb4PStShXRg4Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcG9NU2x3Q0dpUEpEbEkxOHNSRlB6S0FneGd5WlB1cFNJREpWaFBwRGxrNjF1TGIyS0dvNm4xdnoxbEttNjBaNFZ3UjBNL0Y5dWM2QU01NnlHSE9mcTlQWFNsaFZnU2ZEcVNXd2NYeGNUdFJ5a2o5ZVBQRTFPL2UxR3BGNXRXaDNtZkpnTzFOMjRFc0RRcSt2OWlLc2diRGZLRmtBaXU2REh1UlVkbTBuN0pXaDB2eDhKKzVBWWhOcjhYNXgwVXI2Z3BLMWJwaTVnQWhNL0xNQVlvNVlvb2lyaHNvcHEwYlhBdG5UNW5HYnY1ek1HUUJWa0o3VWxQMExhOE5EM3gxeExVdmk1TFpoODBUZk9kWkFiZnBqMnRFaHo5cEE9PQ">
+				<gx:ImageUrl>https://doc-14-7o-mymaps.googleusercontent.com/untrusted/hostedimage/fa94d1fmg9j9g79gn98g4pg6s4/1fn9576a26nsgps54juud9bup0/1590556662500/6LQ0fqi0K8oJPTUGCqbYksfZzxdWWXS8/00672193297249112796/5AF2TALp9y9_YxrY0ASf9KX28BY3wXBYEi62j2RGSLDpO2NVpt_hk_UEH1Yy2dmtC7NXCant86A2O3cyJy_KEBZoQYgZszo5LlT0Ejv4OPVvDGLtMzN7Cg-MOoFCzdFuOJEJd7d_ydBqOCMUIY-I6bxZ3k1d0YnNFZhQoi_BlGEFPPgtY_IAiuz6_78ldnLigmb_cqyzf9Vw4EGsZ2_Lf901wVlXfWTiZX46xJW2BGr8V-mF0AWpMCw_Cmjh590MifnppmtguadmsHLsDz9HSrFA8Wzj-6l9wKQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-74.04450039999999,40.6892494,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BC01AF7601368BE7F0B">
+		<name>Statue of Liberty2</name>
+		<visibility>0</visibility>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipM0gV5I1W3eIAMJRQYbnXYll0eZpD9525rT6w_p</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-74.04450039999996</longitude>
+			<latitude>40.68924939999991</latitude>
+			<altitude>73.15482739728871</altitude>
+			<heading>320.6185550581536</heading>
+			<tilt>125.3955187016633</tilt>
+			<roll>0</roll>
+			<gx:fovy>37.90514163793381</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_05CD3C0C421389F82E84</styleUrl>
+		<Point>
+			<coordinates>-74.04451226808406,40.68921190965381,43.39827808515479</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC841667913671E8917">
+		<name>U.S. Bank Tower</name>
+		<description><![CDATA[<div><span>We now move to the ancient city of Los Angeles. Presented here is what was called the “US Bank Tower.” From the recovered flash drive </span><a href="https://www.great-towers.com/tower/us-bank-tower"><span>information</span></a><span>, we know that the skyscraper was built in the year 1989 according to the archaic Gregorian calendar, using antique steel. Although built in an active seismic region, it could withstand an 8.3-magnitude earthquake, long before we stabilized the Earth’s crust of course. Towering at an impressive 1,018 feet, one of the tallest buildings in the ancient empire of the United States, this landmark must surely have been an impressive site for the neanderthals of the 21st century. Although there are a few records of the Tower being used as what was called a “financial center,” historians believe that the tower was the location of a program to genetically-engineer wings for humans. As seen in this restored photo, top scientific minds of this time created a way to give humans colorful wings, similar to the now extinct bird species, allowing them to fly. The towering height of this facility was used by the human hybrids to demonstrate their new appendages. This tower was one of the tallest in the world to include what was known as a “heli-pad,” as seen in aerial views. Heli-, an ancient English prefix, is believed to have referred to Helios, the god of the Sun, whom ancient Americans worshipped. Recovered documents suggest that a test subject named Icarus, while demonstrating his wings, flew too close to the Sun and his wings burned up. Due to this incident, officials shut down the program, deemed too dangerous, and had the US Bank Tower destroyed, as seen by this found</span><a href="https://www.youtube.com/watch?v=5uL90PFju5g"><span> footage</span></a><span> from the time. Even though it may be gone, the Tower is a testament to the scientific discovery and curiosity of the 21st century, and should be reconstructed.</span><br></div>]]></description>
+		<gx:mid>/m/01xy6t</gx:mid>
+		<gx:fid>0x80c2c7b36b1fa4d5:0xa7fab92c9e7abb14</gx:fid>
+		<LookAt>
+			<longitude>-118.2541360161093</longitude>
+			<latitude>34.05106640754687</latitude>
+			<altitude>293.3628319106108</altitude>
+			<heading>-81.6286293968226</heading>
+			<tilt>59.99692875971426</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>456.0121287028596</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5746D0A41389F82E86</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2543526,34.0510801,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032E123D7213671F7C40">
+		<name>The White House</name>
+		<description><![CDATA[<p dir="ltr"><span>FACT: The construction of the White House started in 1792 and it was first occupied by President John Adams in 1800.</span><br></p><p dir="ltr"><span>FACT: The White House is 168 feet (51.2 meters) long.</span><br></p><p dir="ltr"><span>FACT: Floor area (total of 6 floors) approximately 55,000 square feet.</span><br></p><p dir="ltr"><span>MAYBE: An artifact found near the White House site contained a plastic black box which had a circular "data wheel". Our top historians believe this maybe an live account of the White House final moments&nbsp;</span><br></p><div><br></div>]]></description>
+		<gx:mid>/m/081sq</gx:mid>
+		<gx:fid>0x89b7b7bcdecbb1df:0x715969d86d0b76bf</gx:fid>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipOuvQXSlcFlD08xoHlVHRrCnY9_BjIy30g-IUoT</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-77.03655590000004</longitude>
+			<latitude>38.89739130000003</latitude>
+			<altitude>19.11406481489882</altitude>
+			<heading>351.4921214361693</heading>
+			<tilt>119.0333296418017</tilt>
+			<roll>0</roll>
+			<gx:fovy>76.65374616837528</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_06287DBA3B1389F82E8B</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0365298,38.8976763,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="058AA372E5136719DA78">
+		<name>That&apos;s all!</name>
+		<description><![CDATA[<h3>I hope you were paying attention.<br></h3><h3>Submit your vote <a href="https://forms.gle/a2ARg7fVKXoX8dts5">here!</a></h3><div><br></div>]]></description>
+		<styleUrl>#__managed_style_0A9605A8261389F82E6D</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb3lSVisyc05aeWhOSU81NSt0bEZaNFFhRmhkSVNvcmxwYkFCa2hsQWtVVDVYNzNNaWZvdS9PdHkwbTI1RVZvY0ZIVHROSE4yODdrZUZqdVczUmpjNEVmckpBenJDT01BRW1LSWNzcWlVQU5WeVQvT0ErWDZwSjFwVU54R2dwd28zZkZCYUd4NldXVkN6cDgxdGdRU0NCZWIwVHIvQUtRdmF0ZFlRZDFWL1RWVExrQjcyZDZCQUpnUVhMWVFkZUNmNUxnQzFGOThYeGxOdGs3VmVvRWxpcWJDWG9XckpQM3pPcWl1WFdQazZtek9JaWVrQjJvR2h6c0xZN1R4YnYyUkp2LzhWenFocnR1RTZiNVY5UHozZ3hEQnRvZWc9PQ">
+				<gx:ImageUrl>https://doc-14-7o-mymaps.googleusercontent.com/untrusted/hostedimage/fa94d1fmg9j9g79gn98g4pg6s4/e09rkppiijfllm80e0oltvcdps/1590556662500/6LQ0fqi0K8oJPTUGCqbYksfZzxdWWXS8/00672193297249112796/5AF2TALogmMSstJOIAFrLZ6gJ9VyS_0ElTmzQgSJQ2QiPnhxLciBNc8h4CjT63o4LqWk_ZOKnsdtgTpDH3-mZO4RNLG5uD3zDDXhfUCVoS5tCTmLk7OrH0Qb9Ss1rtfKRGJJzo8mXXMAI_fWPFvaa47XecUmOT3W-_5_ywzIJA5bBnSnXqwXiEroIfhBL3chQCSIpsCKqceLrs6ZuvN7VNZQej9mlJ4LGc9L9g3FxB4kyo3wJr8wVdcxdb3EgfanM1emkdBvh_oHZQgvhAEYOVP94AFJBAzkgtg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+</Document>
+</kml>
