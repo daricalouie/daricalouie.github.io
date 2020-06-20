@@ -251,7 +251,7 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content h2 {
-  font-size: 0.8rem;
+  font-size: 1rem;
   text-transform: uppercase;
 }
 
@@ -280,6 +280,10 @@ h6 {
     -webkit-transition: -webkit-clip-path 0.25s ease-out;
     -webkit-clip-path: inset(-1px);
     clip-path: inset(-1px);
+    object-fit: cover;
+    width:530px;
+    height: 250px;
+    
   }
   .portfolio-item:hover img {
     -webkit-clip-path: inset(2rem);
